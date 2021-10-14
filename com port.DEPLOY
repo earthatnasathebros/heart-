@@ -1,0 +1,7 @@
+"button" .gpios[0]mask =set_mode 'heart phase deslaytion'| gpios_mask_set_analog|
+	gpios.com3_send_sycn
+	gpios._mask_set_type|analog set_speed
+    "permissions": ["training window","","operator-interface"],
+    "vital sign simulator_mainifest_files":braud rate 9800,serial=com3,"
+    if(.ecgSerial(com3)){
+	
